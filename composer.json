@@ -1,0 +1,17 @@
+{
+    "name": "kamil/film_rental",
+    "autoload": {
+        "psr-4": {
+            "Kamil\\FilmRental\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kamilevaic",
+            "email": "kamile.vaic@gmail.com"
+        }
+    ],
+    "require": {
+        "smarty/smarty": "^4.3"
+    }
+}
