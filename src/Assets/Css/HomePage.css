@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+    background-color: #333333;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #344e41;
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.topnav a.active {
+    background-color: #dad7cd;
+    color: #344e41;
+}
+.greeting {
+    display: flex;
+    justify-content: center;
+    color: white;
+}

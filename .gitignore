@@ -1,2 +1,7 @@
 vendor
+templates_c
+.gitignore
+.idea/dataSources.xml
+.idea/php.xml
+
 

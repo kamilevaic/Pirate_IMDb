@@ -1,0 +1,61 @@
+html, body {
+    margin: 0;
+    height: 100vh;
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+}
+
+header {
+    margin-bottom: 0;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #344e41;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #dad7cd;
+    color: #344e41;
+}
+
+h3 {
+    margin: 0;
+}
+
+h4, h5 {
+    margin: 0.3rem;
+}
+
+.film-section {
+    margin-top: 0;
+    background-color: #333333;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.film-box {
+    height: 250px;
+    width: 200px;
+    background-color: #a3b18a;
+    border-radius: 10px;
+    margin: 15px;
+    text-align: center;
+}
+
+
